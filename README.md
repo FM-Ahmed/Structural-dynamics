@@ -1,6 +1,6 @@
 # Structural-dynamics
 ### modeshape.py
-Calculates the modeshapes for a rectangular cantilever beam
+Calculates the modeshapes for a rectangular cantilever beam.
 
 # Wind-turbine-loads
 
